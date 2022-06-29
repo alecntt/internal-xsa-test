@@ -1,0 +1,1 @@
+{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[\"/internal-xsa-test/db/src/data/PurchaseOrder.hdbtable\",\"/internal-xsa-test/db/src/data/PurchaseOrderItem.hdbtable\"]}}"]},"mixinTypes":[]}
